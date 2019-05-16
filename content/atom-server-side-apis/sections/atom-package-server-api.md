@@ -247,7 +247,7 @@ Returns a list of user objects:
 
 ```json
 [
-  {"login":"aperson"},
+  {"n":"aperson"},
   {"login":"anotherperson"},
 ]
 ```
